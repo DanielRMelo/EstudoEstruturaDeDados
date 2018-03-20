@@ -1,4 +1,4 @@
-package br.com.demelo;
+package br.com.demelo.aluno;
 
 public class Aluno {
 

@@ -1,6 +1,6 @@
-package br.com.demelo.estruturadedados;
+package br.com.demelo.estruturadedados.vetor;
 
-import br.com.demelo.Aluno;
+import br.com.demelo.aluno.Aluno;
 
 public class VetorTeste {
 
